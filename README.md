@@ -5,7 +5,7 @@ Depending upon the varous factors such as age, sex, bmi, bp etc. the model predi
 
 Projects steps:
 
-1)Download a load_diabetes data set from dataset module of sklearn library. This dataset contains various features which can help our model for accurate prediction.
+1)Downloaded a load_diabetes data set from dataset module of sklearn library. This dataset contains various features which can help our model for accurate prediction.
 
 2)Identified the most relevant data and target features to improve the predictive power of the model.
 
